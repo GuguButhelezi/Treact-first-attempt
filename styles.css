@@ -553,13 +553,14 @@ footer{
 
 .fa-arrow-left{
     margin: 0 12px;
+    padding: 3px;
     border: 1px solid gray;
     background-color: lightblue;
     color: rgb(76, 81, 191);
 }
 
 .fa-arrow-right{
-    margin: 0 6x;
+    padding: 3px;
     border: 1px solid gray;
     background-color: lightblue;
     color: rgb(76, 81, 191);
